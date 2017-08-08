@@ -6,9 +6,9 @@
 - open cv
 - libafacedetection c++编写的
 
-##ARKit人工智能
+## ARKit人工智能
 **AV Foundation4.0**
 - AVCaptureOutput 人脸
 - 人脸元数据、二维码
 
-##此项目使用苹果原生，AV Foundation框架编写的动态人脸识别功能，最大可识别10人。
+## 此项目使用苹果原生，AV Foundation框架编写的动态人脸识别功能，最大可识别10人。
