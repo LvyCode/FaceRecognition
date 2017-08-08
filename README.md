@@ -2,7 +2,7 @@
 **动态人脸识别**
 
 - Core Image 苹果自带
-- face++ 优点：轻量、易用、识别率高。支付宝 360相机 美颜相机
+- face++ 优点：轻量、易用、识别率高。支付宝 360相机 美颜相机都使用的face++
 - open cv
 - libafacedetection c++编写的
 
