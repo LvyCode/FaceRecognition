@@ -12,8 +12,9 @@
 
 
 - AVCaptureOutput 人脸
+
 - 人脸元数据、二维码
 
-![ARKit](/Users/lyy/Desktop/Git/FaceRecognition/ARKit.png)
+  ![image](https://github.com/LvyCode/FaceRecognition/blob/master/ARKit.png)
 
 **此项目使用苹果原生，AV Foundation框架编写的动态人脸识别功能，最大可识别10人。**
